@@ -1,0 +1,12 @@
+.button:pressed:hover {
+    -fx-scale-y: 0.9;
+    -fx-scale-x: 0.9;
+}
+
+.button:hover {
+    -fx-background-color: blue;
+    -fx-scale-y: 1.1;
+}
+.bg {
+    -fx-background-image: url("https://goo.gl/images/gUuspe");
+}
